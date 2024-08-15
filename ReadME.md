@@ -1,46 +1,46 @@
 # Space Shooter One-Bit
 
-Um jogo 2D de tiro em estilo one-bit, desenvolvido com Pygame.
+A 2D one-bit shooter game developed using Pygame.
 
-## Como Jogar
+## How to Play
 
-- **Movimento:** Use as setas para a esquerda e direita para mover a nave.
-- **Atirar:** Pressione a tecla `Espaço` para atirar nos inimigos.
-- **Objetivo:** Destrua o maior número possível de inimigos e evite que eles ultrapassem sua nave.
-- **Fim de Jogo:** O jogo termina quando sua vida chega a 0.
+- **Movement:** Use the left and right arrow keys to move the spaceship.
+- **Shoot:** Press the `Space` key to shoot at enemies.
+- **Objective:** Destroy as many enemies as possible and prevent them from reaching your spaceship.
+- **Game Over:** The game ends when your health reaches 0.
 
-## Funcionalidades
+## Features
 
-- Tela de início que aguarda o jogador apertar a tecla `Espaço`.
-- Tela de game over que exibe a pontuação final.
-- Barra de vida que diminui conforme os inimigos ultrapassam o jogador.
+- Start screen that waits for the player to press the `Space` key.
+- Game over screen that displays the final score.
+- Health bar that decreases as enemies pass the player.
 
-## Requisitos
+## Requirements
 
 - Python 3.x
 - Pygame
 
-## Como Executar
+## How to Run
 
-1. Clone este repositório:
+1. Clone this repository:
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/your-username/repository-name.git
     ```
 
-2. Instale as dependências:
+2. Install the dependencies:
     ```bash
     pip install pygame
     ```
 
-3. Execute o jogo:
+3. Run the game:
     ```bash
     python Main.py
     ```
 
-## Contribuição
+## Contributing
 
-Sinta-se à vontade para contribuir com o projeto, enviando pull requests ou sugerindo melhorias através das issues.
+Feel free to contribute to the project by submitting pull requests or suggesting improvements through issues.
 
-## Licença
+## License
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+FreeLicense
